@@ -1,0 +1,19 @@
+{
+  "name": "todo_node",
+  "version": "1.0.0",
+  "description": "todo application node",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js",
+    "test": "test.js"
+  },
+  "keywords": [
+    "node",
+    "todo"
+  ],
+  "author": "calvin settachatgul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
